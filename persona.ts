@@ -11,3 +11,4 @@ class Persona {
 
 const PersonaJuan = new Persona(`juan`, 70, 180)
 console.log(PersonaJuan)
+console 
